@@ -7,6 +7,7 @@ View website at [here](http://chellarao-chowdary.github.io/robofriends).
 To run
 
 1. Clone this repo
+2. cd robofriends {change the directory to robofriends}
 2. Run npm install
 3. Run npm start
 
